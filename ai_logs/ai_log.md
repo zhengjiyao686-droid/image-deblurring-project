@@ -32,9 +32,8 @@ with Wiener filter, Richardson-Lucy, and DnCNN methods with PSNR/SSIM evaluation
 intead of giving me direct functional code, guide me to complete it."
 
 **Output summary:**
-Claude provided complete code framework with all three methods, dataset
-split script, and project.ipynb notebook cells for evaluation, and corrects
-errors in the code.
+Claude provided code framework with all three methods, as well as cpmlete code with
+dataset split script, and corrects errors in the code.
 
 **Code used:** Yes — deblur.py, utils.py, setup_dataset.py, project.ipynb
 
